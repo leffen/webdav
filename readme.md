@@ -1,7 +1,5 @@
-# webdav
+# Adapted from github.com/hacdias/webdav
 
-[![Build](https://img.shields.io/travis/hacdias/webdav.svg?style=flat-square)](https://travis-ci.org/hacdias/webdav)
-[![Go Report Card](https://goreportcard.com/badge/github.com/hacdias/webdav?style=flat-square)](https://goreportcard.com/report/hacdias/webdav)
 
 ```webdav``` is a simple tool that creates a WebDAV server for you. By default, it runs on a random free port and supports JSON and YAML configuration. Here is a simple YAML configuration example:
 
